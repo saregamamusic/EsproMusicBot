@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from EsproMusic import LOGGER, app, userbot
-from EsproMusic.core.call import 
+from EsproMusic.core.call import Loy 
 from EsproMusic.misc import sudo
 from EsproMusic.plugins import ALL_MODULES
 from EsproMusic.utils.database import get_banned_users, get_gbanned
