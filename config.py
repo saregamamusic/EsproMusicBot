@@ -13,9 +13,6 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-API_URL = getenv("API_URL", "https://www.youtube.com/watch?v=0KNk-Joi-NM") #youtube song url
-API_KEY = getenv("API_KEY", "") # youtube song api key, get it from https://t.me/AloneHuVai
-
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
